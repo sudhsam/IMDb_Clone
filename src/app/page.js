@@ -1,3 +1,5 @@
+import { Inter } from "next/font/google";
+const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
-  return <h1>this isv HOME page</h1>;
+  return <h1>this isv HOME</h1>;
 }

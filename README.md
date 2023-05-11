@@ -12,7 +12,14 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Images
+![Screenshot (4)](https://github.com/sudhsam/IMDb_Clone/assets/88586529/39dc072a-48ef-482d-93c8-a8551d463d2c)
+![Screenshot (5)](https://github.com/sudhsam/IMDb_Clone/assets/88586529/a2f2d184-df7b-4390-9286-407e549f88f8)
+![Screenshot (6)](https://github.com/sudhsam/IMDb_Clone/assets/88586529/00116cff-6f51-45b1-8c3f-6a0a167cd48e)
+![Screenshot (7)](https://github.com/sudhsam/IMDb_Clone/assets/88586529/54731bb8-801a-4a3d-937d-d0b08edc8154)
+
+Open [http://localhost:3000](http://localhost:3000) with your 
+rowser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
